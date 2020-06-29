@@ -24,3 +24,13 @@ Top Schools Main
 Top Schools Challenge
 ![Top Schools Challenge](https://github.com/AnnaS0272/School_District_Analysis/blob/master/Top%20Schools%20Challenge.png)
 
+As we move further down into the details of analysis, the math and reading scores by grade for Thomas High School are also impacted. In fact, we are not able to pass any judgement on how the 9th grade performed relative to other schools as the values returned are all **NaN**. 
+
+Looking into school spending, the data seems quite distorted as well.
+
+School Spending Main
+![School Spending Main](https://github.com/AnnaS0272/School_District_Analysis/blob/master/School%20Spending%20Main.png)
+
+School Spending Challenge
+![School Spending Challenge](https://github.com/AnnaS0272/School_District_Analysis/blob/master/School%20Spending%20Challenge.png)
+
