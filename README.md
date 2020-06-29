@@ -24,7 +24,7 @@ Top Schools Main
 Top Schools Challenge
 ![Top Schools Challenge](https://github.com/AnnaS0272/School_District_Analysis/blob/master/Top%20Schools%20Challenge.png)
 
-As we move further down into the details of analysis, the <ins>**math and reading scores by grade**<ins> for Thomas High School are also impacted. In fact, we are not able to pass any judgement on how the 9th grade performed relative to other schools as the values returned are all **NaN**. 
+As we move further down into the details of analysis, the <ins>**math and reading scores by grade**</ins> for Thomas High School are also impacted. In fact, we are not able to pass any judgement on how the 9th grade performed relative to other schools as the values returned are all **NaN**. 
 
 Looking into <ins>**school spending**</ins>, the data seems quite distorted as well, with overall passing dropping from 63 to 56. Thomas High School falls into the 630 - 644 bin. 
 
@@ -34,7 +34,7 @@ School Spending Main
 School Spending Challenge
 ![School Spending Challenge](https://github.com/AnnaS0272/School_District_Analysis/blob/master/School%20Spending%20Challenge.png)
 
-When we check score by <ins>**school size**</ins>, there is a degree of data distortion as well, as Thomas falls into the medium category (1,000 - 2,000), impacting the whole category.
+When we check score by <ins>**school size**</ins>, there is a degree of data distortion as well, as Thomas falls into the medium category (1,000 - 2,000), impacting the whole category by dropping 6 points.
 
 School Size Main
 ![School Size Main](https://github.com/AnnaS0272/School_District_Analysis/blob/master/School%20Size%20Main.png)
