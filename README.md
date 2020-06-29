@@ -26,7 +26,7 @@ Top Schools Challenge
 
 As we move further down into the details of analysis, the math and reading scores by grade for Thomas High School are also impacted. In fact, we are not able to pass any judgement on how the 9th grade performed relative to other schools as the values returned are all **NaN**. 
 
-Looking into school spending, the data seems quite distorted as well.
+Looking into school spending, the data seems quite distorted as well, with overall passing dropping from 63 to 56. Thomas High School falls into the 630 - 644 bin. 
 
 School Spending Main
 ![School Spending Main](https://github.com/AnnaS0272/School_District_Analysis/blob/master/School%20Spending%20Main.png)
