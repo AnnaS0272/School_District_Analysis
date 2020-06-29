@@ -42,4 +42,15 @@ School Size Main
 School Size Challenge
 ![School Size Challenge](https://github.com/AnnaS0272/School_District_Analysis/blob/master/School%20Size%20Challenge.png)
 
+Finally, when reviewing the data change for <ins>**school type**</ins>, we can notice that Charter school as an overall category was impacted negatively dropping a vew points in the overall pasing score.
+
+School Type Main
+![School Type Main](https://github.com/AnnaS0272/School_District_Analysis/blob/master/School%20Type%20Main.png)
+
+School Type Challenge
+![School Type Challenge](https://github.com/AnnaS0272/School_District_Analysis/blob/master/School%20Type%20Challenge.png)
+
+# Main Conclusion
+
+As we discovered the data for Thomas 9th grade was compromised, we had to exclude it all together by making it **NaN**. It didn't produce a singificant impact on the overall disctrict summary, however, it has distorted all subsequent level analysis. We should aim to ether obtain an accurate data or use a proxy to estimate what such data can be in order to perform better low level analysis.
 
