@@ -15,3 +15,12 @@ School Analysis Main
 
 School Analysis Challenge
 ![School Analysis Challenge](https://github.com/AnnaS0272/School_District_Analysis/blob/master/School_Analysis_Challenge.png)
+
+We can also observe a significant trend reversal when it comes to school ratings. Thomas High School was rated as number two, but as we replaced the data with **NaN**, it has moved down towards low performing schools. 
+
+Top Schools Main
+![Top Schools Main](https://github.com/AnnaS0272/School_District_Analysis/blob/master/Top%20Schools%20Main.png)
+
+Top Schools Challenge
+![Top Schools Challenge](https://github.com/AnnaS0272/School_District_Analysis/blob/master/Top%20Schools%20Challenge.png)
+
